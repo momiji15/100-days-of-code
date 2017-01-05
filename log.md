@@ -20,13 +20,14 @@
  - I added three pictures to my website, but I am having trouble lining them up together using bootstrap. I will continue to work on this  
    issue tomorrow.
    
- **Thoughts:** Still getting used to Bootstrap. Scratching my head and wondering what I am doing wrong...but tomorrow awaits! Time to work                on other stuff.
+ **Thoughts:** Still getting used to Bootstrap. Scratching my head and wondering what I am doing wrong...but tomorrow awaits! Time to 
+               work on other stuff.
  
  **Link to work:** [B.K.S. Iyengar Tribute Page](https://github.com/momiji15/tributepage)
    
- ### Day 3: January 5, 2017
+### Day 3: January 5, 2017
  
- **Today's Progress**:
+**Today's Progress**:
   -I figured out why my pictures were not lining up. It was seriously a stupid reason. I thought I had bootstrap installed, but 
    apparently not. Once I was able to do that, I was able to get them to line up.
   -I was playing around with lining up the pictures and I realized it would just be easier to make a jpeg of all the pictures I 
