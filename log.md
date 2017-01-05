@@ -22,5 +22,5 @@
    
  **Thoughts:** Still getting used to Bootstrap. Scratching my head and wondering what I am doing wrong...but tomorrow awaits! Time to work                on other stuff.
  
- **Link to work:** Working on it right now...
+ **Link to work:** [B.K.S. Iyengar Tribute Page](https://github.com/momiji15/tributepage)
    
