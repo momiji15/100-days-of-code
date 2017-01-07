@@ -49,4 +49,4 @@
  
  **Thoughts** Didn't have that many issues today. I have some baseline knowledge on using Git, so I will be using that from now on to update my work.
  
- **Link to work:** Working on it!
+ **Link to work:**[B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
