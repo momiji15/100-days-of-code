@@ -36,4 +36,4 @@
 **Thoughts** I did get frustrated regarding the picture issue, but luckily I had an a-ha moment and realized the issue. I also need 
              to learn git sooner than later so I can make commits to my code.
              
-**Link to work:** N/A at the moment. I will add a link with my updated code once I better understand how to use Git and Github.
+**Link to work:**[B.K.S. Iyengar Tribute Page](https://github.com/momiji15/tributepage)
