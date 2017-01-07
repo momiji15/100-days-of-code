@@ -23,7 +23,7 @@
  **Thoughts:** Still getting used to Bootstrap. Scratching my head and wondering what I am doing wrong...but tomorrow awaits! Time to 
                work on other stuff.
  
- **Link to work:** [B.K.S. Iyengar Tribute Page](https://github.com/momiji15/tributepage)
+ **Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
    
 ### Day 3: January 5, 2017
  
@@ -36,4 +36,4 @@
 **Thoughts** I did get frustrated regarding the picture issue, but luckily I had an a-ha moment and realized the issue. I also need 
              to learn git sooner than later so I can make commits to my code.
              
-**Link to work:**[B.K.S. Iyengar Tribute Page](https://github.com/momiji15/tributepage)
+**Link to work:**[B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
