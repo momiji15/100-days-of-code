@@ -47,6 +47,6 @@
  - I was going to add FontAwesome to my site,  but at this moment, I don't see why I need it.
  - I ended up adding Google Fonts to my site, and I will play around with that.
  
- **Thoughts** Didn't have that many issues today. I have some baseline knowledge on using Git, so I will be using that from now on to update my work.
+**Thoughts** Didn't have that many issues today. I have some baseline knowledge on using Git, so I will be using that from now on to update my work.
  
- **Link to work:**[B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
+**Link to work:**[B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
