@@ -50,3 +50,14 @@
 **Thoughts** Didn't have that many issues today. I have some baseline knowledge on using Git, so I will be using that from now on to update my work.
  
 **Link to work:**[B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
+
+### Day 5: January 6, 2017
+
+**Today's Progress**:
+ - I am still getting the hang of using Git.
+ - I added jQuery to my website but I didn't add any jQuery elements to my page yet.
+ - I spent most of the time trying to figure out how to align the picture I have. 
+ - For some reason I cannot get the text for the title any bigger than what it is. I will work more on this tomorrow.
+ 
+ **Thoughts** The Google text size issue is seriously getting on my nerves. At least I figured out how to center the image. It wasn't 
+              as easy as they make it in the tutorials!
