@@ -61,3 +61,13 @@
  
  **Thoughts** The Google text size issue is seriously getting on my nerves. At least I figured out how to center the image. It wasn't 
               as easy as they make it in the tutorials!
+              
+### Day 6: January 7, 2017
+
+**Today's Progress**:
+ - I commented out of a lot of stuff so I can focus on working on adding wells to the "Regional Associations" section.
+ - I finally figured out my issue with the title text size; I needed to remove the h1 tag.
+ 
+**Thoughts** I didn't get much done because I was trying to figure out the wells issue. The main issue was just based on syntax so I really need to make sure to watch that when adding classes to divs! 
+
+**Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiiji15/tributepage)
