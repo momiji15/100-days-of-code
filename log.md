@@ -59,10 +59,10 @@
  - I spent most of the time trying to figure out how to align the picture I have. 
  - For some reason I cannot get the text for the title any bigger than what it is. I will work more on this tomorrow.
  
- **Thoughts** The Google text size issue is seriously getting on my nerves. At least I figured out how to center the image. It wasn't 
+**Thoughts** The Google text size issue is seriously getting on my nerves. At least I figured out how to center the image. It wasn't 
               as easy as they make it in the tutorials!
  
- **Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
+**Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
               
 ### Day 6: January 7, 2017
 
