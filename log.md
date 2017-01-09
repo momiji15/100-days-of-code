@@ -17,9 +17,9 @@
 **Today's Progress**:
  - I learned more about div when doing the FreeCodeCamp lessons, so I decided to spruce up my basic page and added divs in each section.
  - I found images and added a section which lists the links to those images.
- - I added three pictures to my website, but I am having trouble lining them up together using bootstrap. I will continue to work on this  
-   issue tomorrow.
-   
+ - I added three pictures to my website, but I am having trouble lining them up together using bootstrap. I will continue to work on   
+   this issue tomorrow.
+ 
  **Thoughts:** Still getting used to Bootstrap. Scratching my head and wondering what I am doing wrong...but tomorrow awaits! Time to 
                work on other stuff.
  
