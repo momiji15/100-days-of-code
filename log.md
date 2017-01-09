@@ -61,6 +61,8 @@
  
  **Thoughts** The Google text size issue is seriously getting on my nerves. At least I figured out how to center the image. It wasn't 
               as easy as they make it in the tutorials!
+ 
+ **Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
               
 ### Day 6: January 7, 2017
 
