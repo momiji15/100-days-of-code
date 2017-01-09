@@ -20,10 +20,10 @@
  - I added three pictures to my website, but I am having trouble lining them up together using bootstrap. I will continue to work on   
    this issue tomorrow.
  
- **Thoughts:** Still getting used to Bootstrap. Scratching my head and wondering what I am doing wrong...but tomorrow awaits! Time to 
+**Thoughts:** Still getting used to Bootstrap. Scratching my head and wondering what I am doing wrong...but tomorrow awaits! Time to 
                work on other stuff.
  
- **Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
+**Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
    
 ### Day 3: January 5, 2017
  
