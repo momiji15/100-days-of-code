@@ -51,7 +51,7 @@
  
 **Link to work:**[B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
 
-### Day 5: January 6, 2017
+### Day 5: January 7, 2017
 
 **Today's Progress**:
  - I am still getting the hang of using Git.
@@ -64,12 +64,22 @@
  
 **Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
               
-### Day 6: January 7, 2017
+### Day 6: January 8, 2017
 
 **Today's Progress**:
  - I commented out of a lot of stuff so I can focus on working on adding wells to the "Regional Associations" section.
  - I finally figured out my issue with the title text size; I needed to remove the h1 tag.
  
 **Thoughts** I didn't get much done because I was trying to figure out the wells issue. The main issue was just based on syntax so I really need to make sure to watch that when adding classes to divs! 
+
+**Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiiji15/tributepage)
+
+### Day 7: January 9, 2017
+
+**Today's Progress**:
+- I updated the color scheme of the website.
+- I added wells from all of the sections except for the "What is Iyengar Yoga?" section.
+
+**Thoughts** Things went a lot more smoothly today compared to the other the days. I'm hoping to finish this project by the end of the week. At this point, I just need to do a little research and add content to the biography and "What is Iyengar Yoga" sections!
 
 **Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiiji15/tributepage)
