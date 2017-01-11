@@ -83,3 +83,15 @@
 **Thoughts** Things went a lot more smoothly today compared to the other the days. I'm hoping to finish this project by the end of the week. At this point, I just need to do a little research and add content to the biography and "What is Iyengar Yoga" sections!
 
 **Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiiji15/tributepage)
+
+### Day 8: January 10, 2017
+
+**Today's Progress**:
+- I added information and a picture to the "Who is B.K.S. Iyengar" section.
+- I reduced the image in the "Who is B.K.S. Iyengar" section by 50%.
+- I updated the "Image sources" section.
+
+**Thoughts** I'm not gonna lie...given how busy my day was, it was difficult to just carve out an hour to code. But the page is coming along quite nicely, so I am happy about that! I am going to try to figure out a way to upload everything so people can see what progress I am making on the page. Newbie problems! 
+
+**Link to work:** [B.K.S. Iyengar Tribute Page](https://github.com/momiiji15/tributepage)
+
