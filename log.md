@@ -95,3 +95,14 @@
 
 **Link to work:** [B.K.S. Iyengar Tribute Page](https://github.com/momiiji15/tributepage)
 
+### Day 9: January 11, 2017
+
+**Today's Progress**:
+- I changed the "Who is B.K.S. Iyengar" section to include one well and one picture in each column.
+- I added additional information and one picture in the "Who is B.K.S. Iyengar" section.
+- I removed one of the wells in the "Sources" section. I will just have one column/well that will store both the image and other sources.
+
+**Thoughts** Another busy day, but I still was able to get an hour of coding in 30 minutes before midnight! The hour went by quite fast and I'm glad I could add more information in the bio section!
+
+**Link to work** [B.K.S. Iyengar Tribute Page](https://github.com/momiiji15/tributepage)
+
