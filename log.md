@@ -36,7 +36,7 @@
 **Thoughts** I did get frustrated regarding the picture issue, but luckily I had an a-ha moment and realized the issue. I also need 
              to learn git sooner than later so I can make commits to my code.
              
-**Link to work:**[B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
+**Link to work:**[Commits of the Day] (https://github.com/momiji15/tributepage/commit/ac9579fe69bc280c738490c9efef0eff0881afbe)
 
 ### Day 4: January 6, 2017
 
@@ -49,7 +49,7 @@
  
 **Thoughts** Didn't have that many issues today. I have some baseline knowledge on using Git, so I will be using that from now on to update my work.
  
-**Link to work:**[B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
+**Link to work:**[Commits of the Day] (https://github.com/momiji15/tributepage/commit/997080af5329a9c7df174006aed1602fa5c6b81d)
 
 ### Day 5: January 7, 2017
 
@@ -62,7 +62,7 @@
 **Thoughts** The Google text size issue is seriously getting on my nerves. At least I figured out how to center the image. It wasn't 
               as easy as they make it in the tutorials!
  
-**Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiji15/tributepage)
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/34f8a6514e015210bd83420cef75a9d829dad806)
               
 ### Day 6: January 8, 2017
 
@@ -72,7 +72,7 @@
  
 **Thoughts** I didn't get much done because I was trying to figure out the wells issue. The main issue was just based on syntax so I really need to make sure to watch that when adding classes to divs! 
 
-**Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiiji15/tributepage)
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/e0e6057e63b6909f91f76767ad3c41fe4417310a)
 
 ### Day 7: January 9, 2017
 
@@ -82,7 +82,7 @@
 
 **Thoughts** Things went a lot more smoothly today compared to the other the days. I'm hoping to finish this project by the end of the week. At this point, I just need to do a little research and add content to the biography and "What is Iyengar Yoga" sections!
 
-**Link to work:** [B.K.S. Iyengar Tribute Page] (https://github.com/momiiji15/tributepage)
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/e1a4c2463f8bb50f5323d4dbc897034b118f2856)
 
 ### Day 8: January 10, 2017
 
@@ -93,7 +93,7 @@
 
 **Thoughts** I'm not gonna lie...given how busy my day was, it was difficult to just carve out an hour to code. But the page is coming along quite nicely, so I am happy about that! I am going to try to figure out a way to upload everything so people can see what progress I am making on the page. Newbie problems! 
 
-**Link to work:** [B.K.S. Iyengar Tribute Page](https://github.com/momiiji15/tributepage)
+**Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/f95455ecae3899b123e3a123c5d99705f5dac903)
 
 ### Day 9: January 11, 2017
 
@@ -104,7 +104,7 @@
 
 **Thoughts** Another busy day, but I still was able to get an hour of coding in 30 minutes before midnight! The hour went by quite fast and I'm glad I could add more information in the bio section!
 
-**Link to work** [B.K.S. Iyengar Tribute Page](https://github.com/momiiji15/tributepage)
+**Link to work** [Commits of the Day](https://github.com/momiji15/tributepage/commit/2dfea9f49de3264579a75ddeb0020c8ef7065bd4)
 
 ### Day 10: January 12, 2017
 
@@ -117,5 +117,5 @@
  
 **Thoughts** Started late but smooth sailing! I'm starting to see the light at the end of the tunnel with this project!
 
-**Link to work** [B.K.S. Iyengar Tribute Page](https://github.com/momiiji15/tributepage)
+**Link to work** [Commits of the Day](https://github.com/momiji15/tributepage/commit/9c2e1ca711781b16ebd0aea6c81dcd0d5ce341a8)
 
