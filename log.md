@@ -117,5 +117,5 @@
  
 **Thoughts** Started late but smooth sailing! I'm starting to see the light at the end of the tunnel with this project!
 
-**Link to work:** [Commits of the Day]: (https://github.com/momiji15/tributepage/commit/9c2e1ca711781b16ebd0aea6c81dcd0d5ce341a8)
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/9c2e1ca711781b16ebd0aea6c81dcd0d5ce341a8)
 
