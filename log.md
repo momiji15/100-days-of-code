@@ -36,7 +36,7 @@
 **Thoughts** I did get frustrated regarding the picture issue, but luckily I had an a-ha moment and realized the issue. I also need 
              to learn git sooner than later so I can make commits to my code.
              
-**Link to work:**[Commits of the Day] (https://github.com/momiji15/tributepage/commit/ac9579fe69bc280c738490c9efef0eff0881afbe)
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/ac9579fe69bc280c738490c9efef0eff0881afbe)
 
 ### Day 4: January 6, 2017
 
@@ -49,7 +49,7 @@
  
 **Thoughts** Didn't have that many issues today. I have some baseline knowledge on using Git, so I will be using that from now on to update my work.
  
-**Link to work:**[Commits of the Day] (https://github.com/momiji15/tributepage/commit/997080af5329a9c7df174006aed1602fa5c6b81d)
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/997080af5329a9c7df174006aed1602fa5c6b81d)
 
 ### Day 5: January 7, 2017
 
