@@ -106,3 +106,16 @@
 
 **Link to work** [B.K.S. Iyengar Tribute Page](https://github.com/momiiji15/tributepage)
 
+### Day 10: January 12, 2017
+
+**Today's Progress**:
+ - I finished the "Who is B.K.S. Iyengar" section.
+ - I finished the "What is Iyengar Yoga" section.
+ - I added pictures to the "What is Iyengar Yoga" and the "Who is B.K.S. Iyengar" sections.
+ - I added more sources under the "image sources" section.
+ - I started working on the sources section regarding the content in the "What is Iyengar Yoga" and "Who is B.K.S. Iyengar" sections.
+ 
+**Thoughts** Started late but smooth sailing! I'm starting to see the light at the end of the tunnel with this project!
+
+**Link to work** [B.K.S. Iyengar Tribute Page](https://github.com/momiiji15/tributepage)
+
