@@ -93,7 +93,7 @@
 
 **Thoughts** I'm not gonna lie...given how busy my day was, it was difficult to just carve out an hour to code. But the page is coming along quite nicely, so I am happy about that! I am going to try to figure out a way to upload everything so people can see what progress I am making on the page. Newbie problems! 
 
-**Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/f95455ecae3899b123e3a123c5d99705f5dac903)
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/f95455ecae3899b123e3a123c5d99705f5dac903)
 
 ### Day 9: January 11, 2017
 
@@ -104,7 +104,7 @@
 
 **Thoughts** Another busy day, but I still was able to get an hour of coding in 30 minutes before midnight! The hour went by quite fast and I'm glad I could add more information in the bio section!
 
-**Link to work** [Commits of the Day](https://github.com/momiji15/tributepage/commit/2dfea9f49de3264579a75ddeb0020c8ef7065bd4)
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/2dfea9f49de3264579a75ddeb0020c8ef7065bd4)
 
 ### Day 10: January 12, 2017
 
@@ -117,5 +117,5 @@
  
 **Thoughts** Started late but smooth sailing! I'm starting to see the light at the end of the tunnel with this project!
 
-**Link to work** [Commits of the Day](https://github.com/momiji15/tributepage/commit/9c2e1ca711781b16ebd0aea6c81dcd0d5ce341a8)
+**Link to work:** [Commits of the Day]: (https://github.com/momiji15/tributepage/commit/9c2e1ca711781b16ebd0aea6c81dcd0d5ce341a8)
 
