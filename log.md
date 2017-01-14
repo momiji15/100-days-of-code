@@ -119,3 +119,14 @@
 
 **Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/9c2e1ca711781b16ebd0aea6c81dcd0d5ce341a8)
 
+### Day 11: January 13, 2017
+
+**Today's Progress**:
+ - I updated the image sources to referencing them in APA style.
+ - I added the sources for the "Who is B.K.S. Iyengar" and the "What is Iyengar Yoga" sections.
+ - I created columns for all the headings so the heading text can completely be within the background color.
+ 
+ **Thoughts** Again I started coding pretty late, but time flew by pretty quickly. Maybe I should just do my coding at night! I am happy that I was able to easily resolve the issue regarding the text "coming off" the background. Now that I made the changes, I need to tweak the spacing of the photos. I also want to tweak the spacing of the wells. Now that I got the major stuff done, I can start to fine tune the page. I seriously think it will be done within a couple of days! 
+
+**Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/0bfd495878b7ed7845c5b8300e5f9815005b9e53)
+
