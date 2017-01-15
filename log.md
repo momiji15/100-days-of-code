@@ -130,3 +130,15 @@
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/0bfd495878b7ed7845c5b8300e5f9815005b9e53)
 
+### Day 12: January 14, 2017 ###
+
+**Today's Progress**:
+- I added a source that I forgot to add under the "Sources" section.
+- I replaced the bullet points with a font aweseome icon for the unordered lists.
+- I adjusted the margins of the rows to get rid of the "clashing" between the heading and the wells/pictures.
+
+**Thoughts** I am pretty much finished with this project. Since I did my work in Brackets, I need to transfer it to Codepen and share it. It seems that I'm going to have to tweak some of the code in Codepen.io in order to get the page to work properly! I am pretty pleased with what I have done! 
+
+** Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/cf7c557cd14cbd0a1d500fab1869f096c4e438f6) 
+
+
