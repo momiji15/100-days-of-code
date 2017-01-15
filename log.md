@@ -152,6 +152,6 @@
 
 **Thoughts** I definitely worked at least two hours today, but I really wanted to finish this project off! I spent this time putting the final touches on this project. Tomorrow, I will start working on the FCC Portfolio project. 
 
-**Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/fd6ea938e23de93862ace2708d8676fb1ddf9064)  [BKS 
+**Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/fd6ea938e23de93862ace2708d8676fb1ddf9064),   [BKS 
                   Iyengar Tribute Page](http://codepen.io/momiji15/full/xgEbJo/)
 
