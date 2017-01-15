@@ -141,6 +141,6 @@
 
 **Thoughts** I am pretty much finished with this project. Since I did my work in Brackets, I needed to transfer it to Codepen and share it. I had to tweak what I did in codepen.io since the page was not displaying the same. I definitely spent more than the one hour I alloted to coding for the day. Almost tempted to count it for the next day since I worked pass midnight haha. I am pretty pleased with what I have done! 
 
-** Link to work:** [BKS Iyengar Tribute Page](http://codepen.io/momiji15/full/xgEbJo/)
+**Link to work:** [BKS Iyengar Tribute Page](http://codepen.io/momiji15/full/xgEbJo/)
 
 
