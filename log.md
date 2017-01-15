@@ -137,10 +137,10 @@
 - I replaced the bullet points with a font aweseome icon for the unordered lists.
 - I adjusted the margins of the rows to get rid of the "clashing" between the heading and the wells/pictures.
 - I fixed an issue with the "Regional Associations" session. The links were the same on the left and right wells!
+- Transfered code from Brackets to Codepen.io
 
-**Thoughts** I am pretty much finished with this project. Since I did my work in Brackets, I need to transfer it to Codepen and share it. It seems that I'm going to have to tweak some of the code in Codepen.io in order to get the page to work properly! I am pretty pleased with what I have done! 
+**Thoughts** I am pretty much finished with this project. Since I did my work in Brackets, I needed to transfer it to Codepen and share it. I had to tweak what I did in codepen.io since the page was not displaying the same. I definitely spent more than the one hour I alloted to coding for the day. Almost tempted to count it for the next day since I worked pass midnight haha. I am pretty pleased with what I have done! 
 
-** Link to work:** [Commits of the Day] (https://github.com/momiji15/tributepage/commit/cf7c557cd14cbd0a1d500fab1869f096c4e438f6) 
-                   [BKS Iyengar Tribute Page](http://codepen.io/momiji15/full/xgEbJo/)
+** Link to work:** [BKS Iyengar Tribute Page](http://codepen.io/momiji15/full/xgEbJo/)
 
 
