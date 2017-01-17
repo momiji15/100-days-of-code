@@ -155,3 +155,16 @@
 **Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/fd6ea938e23de93862ace2708d8676fb1ddf9064),   [BKS 
                   Iyengar Tribute Page](http://codepen.io/momiji15/full/xgEbJo/)
 
+### Day 14: January 16, 2017 ###
+
+**Today's Progress**:
+- I started working on the FCC Portfolio Project.
+- I added a navbar to my portfolio page.
+- I messed some things up when using git. I uploaded the folder from the tribute repository to the portfolio repository and had to 
+  delete the folder.
+  
+**Thoughts**
+I really screwed up things when I changed directories in git and accidentally deleted the index.html file on my computer!!! The good news is that I was able to get the file again from the tribute page repository. I still find git quite confusing!!!
+
+**Link to work:**  [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/37b070474bcda8746944fc62132c48116843b8fc) 
+
