@@ -168,3 +168,14 @@ I really screwed up things when I changed directories in git and accidentally de
 
 **Link to work:**  [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/37b070474bcda8746944fc62132c48116843b8fc) 
 
+### Day 15: January 17, 2017 ###
+
+** Today's Progress**:
+- Changed the navbar design.
+- Added padding to the webpage.
+
+**Thoughts**
+Spent the whole hour working on the navbar...this project is definitely harder than the last one! 
+
+** Link to work:** [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/6a498b2876519bf885b6d1ab96a38491cb87f49b)
+
