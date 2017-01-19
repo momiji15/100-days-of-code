@@ -170,7 +170,7 @@ I really screwed up things when I changed directories in git and accidentally de
 
 ### Day 15: January 17, 2017 ###
 
-** Today's Progress**:
+**Today's Progress**:
 - Changed the navbar design.
 - Added padding to the webpage.
 
@@ -178,4 +178,17 @@ I really screwed up things when I changed directories in git and accidentally de
 Spent the whole hour working on the navbar...this project is definitely harder than the last one! 
 
 **Link to work:** [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/6a498b2876519bf885b6d1ab96a38491cb87f49b)
+
+### Day 16: January 18, 2017 ###
+
+**Today's Progress**:
+- I messed around with my navbar....again.
+- I changed the color of the navbar to black.
+- I changed the font and font color of the navbar items.
+- I changed the font when one hovers over a navbar element.
+
+**Thoughts**
+Spent yet another hour working on the navbar.....I blame being fickle for that. But I think I am satisfied...for now with what I have. I just need to figure out how to change the color of the font of the navbar element when it is an active. I definitely did a lot of Google searches today regarding CSS and the bootstrap nav bar!!!!
+
+**Link to work:** [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/81e4d4486395e094006b3ded6345a3a860ce4a20)
 
