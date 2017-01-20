@@ -192,3 +192,16 @@ Spent yet another hour working on the navbar.....I blame being fickle for that. 
 
 **Link to work:** [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/81e4d4486395e094006b3ded6345a3a860ce4a20)
 
+### Day 17: January 19, 2017 ###
+
+**Today's Progress**:
+- I was able to get the text to turn black when one clicks on the pill in the nav-bar.
+- I changed the background of the web page.
+- I added a title and sub-title for my page.
+
+**Thoughts**
+The good news is that I did not spend the whole hour working on the navbar. The not so good news is that I really have no idea where I want to go with this portfolio page. I'm going to have to get out the pen and paper and draw up what kind of design I would like...that will be my blueprint to work off of! I had trouble remembering how to add the row and column elements to the page. It's crazy how quickly the code can fly out of your brain! I guess this is why the 100 Days of Code challenge is so important! 
+
+**Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/a82406c4c238ce1bfb632051d06b1976181bb589)
+
+
