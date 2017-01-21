@@ -214,6 +214,6 @@ The good news is that I did not spend the whole hour working on the navbar. The 
 **Thoughts**
 I typed the midnight code today...this is probably the latest I ever coded. Pretty pleased with my progress though. 
 
-**Link to work:**[Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/84f019c9b1d671349cc5f4a43844340ea1837a89)
+**Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/84f019c9b1d671349cc5f4a43844340ea1837a89)
 
 
