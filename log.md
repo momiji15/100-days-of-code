@@ -204,4 +204,16 @@ The good news is that I did not spend the whole hour working on the navbar. The 
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/a82406c4c238ce1bfb632051d06b1976181bb589)
 
+### Day 18: January 20, 2017 ###
+
+**Today's Progress**:
+- I added objects to my page and added links to my objects to the pill elements. When I click on a pill, it will scroll down to the 
+  corresponding object.
+- I added something to the "About Me" section.
+
+**Thoughts**
+I typed the midnight code today...this is probably the latest I ever coded. Pretty pleased with my progress though. 
+
+**Link to work:**[Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/84f019c9b1d671349cc5f4a43844340ea1837a89)
+
 
