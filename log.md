@@ -216,4 +216,17 @@ I typed the midnight code today...this is probably the latest I ever coded. Pret
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/84f019c9b1d671349cc5f4a43844340ea1837a89)
 
+### Day 19: January 20, 2017 ###
+
+**Today's Progress**:
+- I fixed the rows and columns for the "About Me" section.
+- I added an image placeholder in the "About Me" section.
+- I added a "Portfolio" section.
+- I added image placeholders in the "Portfolio" section.
+
+**Thoughts**
+Had a few issues regarding padding the columns but I was able to figure it out. For some reason when I try to add a row and add a h3 heading, everything messes up. I will try to figure that out tomorrow!
+
+**Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/1d4259f21b9985c6579d0407199123e49bc048cf)
+
 
