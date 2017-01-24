@@ -229,7 +229,7 @@ Had a few issues regarding padding the columns but I was able to figure it out. 
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/1d4259f21b9985c6579d0407199123e49bc048cf)
 
-### Day 20: January 22, 2017 ###
+### Day 20: January 22, 2017 
 
 **Today's Progress**:
 - I fixed the issue with the "Portfolio" h3 heading.
@@ -241,7 +241,7 @@ I'm happy that I was able to fix the h3 issue. The next task is to figure out fo
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/ebc97d079e9fccf74a1be81ac86740c91d06e9a7)
 
-### Day 21: January 23 2017 ### 
+### Day 21: January 23 2017  
 **Today's Progress**:
 - I scrapped the form that I originally made and made a new one.
 
