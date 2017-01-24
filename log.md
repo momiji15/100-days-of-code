@@ -216,7 +216,7 @@ I typed the midnight code today...this is probably the latest I ever coded. Pret
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/84f019c9b1d671349cc5f4a43844340ea1837a89)
 
-### Day 19: January 20, 2017 ###
+### Day 19: January 21, 2017 ###
 
 **Today's Progress**:
 - I fixed the rows and columns for the "About Me" section.
@@ -229,7 +229,7 @@ Had a few issues regarding padding the columns but I was able to figure it out. 
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/1d4259f21b9985c6579d0407199123e49bc048cf)
 
-### Day 20: January 21, 2017 ###
+### Day 20: January 22, 2017 ###
 
 **Today's Progress**:
 - I fixed the issue with the "Portfolio" h3 heading.
@@ -240,6 +240,15 @@ Had a few issues regarding padding the columns but I was able to figure it out. 
 I'm happy that I was able to fix the h3 issue. The next task is to figure out forms. 
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/ebc97d079e9fccf74a1be81ac86740c91d06e9a7)
+
+### Day 21: January 23 2017 ### 
+**Today's Progress**:
+- I scrapped the form that I originally made and made a new one.
+
+**Thoughts**
+Making a form is a lot harder than I thought...spent most of my time figuring out the best way to do it. I am reading terms like AJAX and PHP and those terms are Greek to me :/
+
+**Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/10401f3834c893f220c57f93351b16709a5a1e2c)
 
 
 
