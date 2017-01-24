@@ -130,7 +130,7 @@
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/0bfd495878b7ed7845c5b8300e5f9815005b9e53)
 
-### Day 12: January 14, 2017 ###
+### Day 12: January 14, 2017 
 
 **Today's Progress**:
 - I added a source that I forgot to add under the "Sources" section.
@@ -143,7 +143,7 @@
 
 **Link to work:** [BKS Iyengar Tribute Page](http://codepen.io/momiji15/full/xgEbJo/)
 
-### Day 13: January 15, 2017 ###
+### Day 13: January 15, 2017 
 
 **Today's Progress**:
 - I added a target which would allow the link to load in a separate page.
@@ -155,7 +155,7 @@
 **Link to work:** [Commits of the Day](https://github.com/momiji15/tributepage/commit/fd6ea938e23de93862ace2708d8676fb1ddf9064),   [BKS 
                   Iyengar Tribute Page](http://codepen.io/momiji15/full/xgEbJo/)
 
-### Day 14: January 16, 2017 ###
+### Day 14: January 16, 2017 
 
 **Today's Progress**:
 - I started working on the FCC Portfolio Project.
@@ -168,7 +168,7 @@ I really screwed up things when I changed directories in git and accidentally de
 
 **Link to work:**  [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/37b070474bcda8746944fc62132c48116843b8fc) 
 
-### Day 15: January 17, 2017 ###
+### Day 15: January 17, 2017 
 
 **Today's Progress**:
 - Changed the navbar design.
@@ -179,7 +179,7 @@ Spent the whole hour working on the navbar...this project is definitely harder t
 
 **Link to work:** [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/6a498b2876519bf885b6d1ab96a38491cb87f49b)
 
-### Day 16: January 18, 2017 ###
+### Day 16: January 18, 2017 
 
 **Today's Progress**:
 - I messed around with my navbar....again.
@@ -192,7 +192,7 @@ Spent yet another hour working on the navbar.....I blame being fickle for that. 
 
 **Link to work:** [Commits of the Day] (https://github.com/momiji15/d-is-for-data/commit/81e4d4486395e094006b3ded6345a3a860ce4a20)
 
-### Day 17: January 19, 2017 ###
+### Day 17: January 19, 2017 
 
 **Today's Progress**:
 - I was able to get the text to turn black when one clicks on the pill in the nav-bar.
@@ -204,7 +204,7 @@ The good news is that I did not spend the whole hour working on the navbar. The 
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/a82406c4c238ce1bfb632051d06b1976181bb589)
 
-### Day 18: January 20, 2017 ###
+### Day 18: January 20, 2017 
 
 **Today's Progress**:
 - I added objects to my page and added links to my objects to the pill elements. When I click on a pill, it will scroll down to the 
@@ -216,7 +216,7 @@ I typed the midnight code today...this is probably the latest I ever coded. Pret
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/84f019c9b1d671349cc5f4a43844340ea1837a89)
 
-### Day 19: January 21, 2017 ###
+### Day 19: January 21, 2017 
 
 **Today's Progress**:
 - I fixed the rows and columns for the "About Me" section.
