@@ -241,7 +241,7 @@ I'm happy that I was able to fix the h3 issue. The next task is to figure out fo
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/ebc97d079e9fccf74a1be81ac86740c91d06e9a7)
 
-### Day 21: January 23 2017  
+### Day 21: January 23, 2017  
 **Today's Progress**:
 - I scrapped the form that I originally made and made a new one.
 
@@ -250,7 +250,7 @@ Making a form is a lot harder than I thought...spent most of my time figuring ou
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/10401f3834c893f220c57f93351b16709a5a1e2c)
 
-### Day 22: January 24 2017
+### Day 22: January 24, 2017
 **Today's Progress**:
 - I scrapped the form because I didn't feel like shelling out money for a hosting site and provided a link to my e-mail in the "Contact" 
   section.
