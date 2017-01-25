@@ -250,6 +250,17 @@ Making a form is a lot harder than I thought...spent most of my time figuring ou
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/10401f3834c893f220c57f93351b16709a5a1e2c)
 
+### Day 22: January 24 2017
+**Today's Progress**:
+- I scrapped the form because I didn't feel like shelling out money for a hosting site and provided a link to my e-mail in the "Contact" 
+  section.
+- I added links to my social media accounts.
+
+**Thoughts**
+Pretty smooth sailing today. Creating a form was more complicated than I thought. On top of that, as previously mentioned, there is some cost in doing so, so forget it for the time being!
+
+**Link to work** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/dd593996848ed2ae0870fc6a5f6e453f321ab32a)
+
 
 
 
