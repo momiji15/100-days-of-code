@@ -259,7 +259,7 @@ Making a form is a lot harder than I thought...spent most of my time figuring ou
 **Thoughts**
 Pretty smooth sailing today. Creating a form was more complicated than I thought. On top of that, as previously mentioned, there is some cost in doing so, so forget it for the time being!
 
-**Link to work** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/dd593996848ed2ae0870fc6a5f6e453f321ab32a)
+**Link to work** [Commits of the Day]: (https://github.com/momiji15/d-is-for-data/commit/dd593996848ed2ae0870fc6a5f6e453f321ab32a)
 
 
 
