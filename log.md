@@ -261,6 +261,17 @@ Pretty smooth sailing today. Creating a form was more complicated than I thought
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/dd593996848ed2ae0870fc6a5f6e453f321ab32a)
 
+### Day 23: January 25, 2017
+**Today's Progress**:
+- I added more information to the "Portfolio" section.
+- I added smooth scrolling to the webpage.
+
+**Thoughts**
+Adding smooth scrolling was easier than I thought. I am trying to figure out what do I want to put in my "Portfolio" section. Other than that, I feel like at this pace, I should be able to wrap this project up within a week or so!
+
+**Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/dccf7922a2b33bd617d731e3ee65cad46062dd0f)
+
+
 
 
 
