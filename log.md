@@ -271,6 +271,19 @@ Adding smooth scrolling was easier than I thought. I am trying to figure out wha
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/dccf7922a2b33bd617d731e3ee65cad46062dd0f)
 
+### Day 24: January 26, 2017
+**Today's Progress**:
+-I added a "GIS-Visualization-GeoDataScience" section and gave a description of a project.
+-I added a "Training" section and gave a description of a project.
+-I added a profile picture.
+
+**Thoughts**
+Now that I added more to my "Portfolio" section, the smooth scrolling + going to linked objects within the page is a bit off. For example, when I click down on the "Contact Me" section, it does not go down to that section but rather to part of the "Portfolio" section. Yet another thing I have to figure out!!!
+
+**Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/cf62339839ee6ac749e06ebea62e5807428b4f14)
+
+
+
 
 
 
