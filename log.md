@@ -282,9 +282,16 @@ Now that I added more to my "Portfolio" section, the smooth scrolling + going to
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/cf62339839ee6ac749e06ebea62e5807428b4f14)
 
+### Day 25: January 27, 2017
+**Today's Progress**:
+- Added images to the "GIS-Visualization-GeoDataScience" section.
+- Added images to the "Training" section.
+- Added image placeholdersto the "Miscelleanous" section.
 
+**Thoughts**
+Today was indeed hard...not because of the coding persay, but because I am exhausted!
 
-
+**Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/0767dbb235b12c8497fcca12f6b4e13ce184bb20)
 
 
 
