@@ -295,8 +295,8 @@ Today was indeed hard...not because of the coding persay, but because I am exhau
 
 ### Day 26: January 28, 2017
 **Today's Progress**:
--Added images to the "Public Health" sub-heading in the "Portfolio" section.
--Started to migrate the code to codepen.io
+- Added images to the "Public Health" sub-heading in the "Portfolio" section.
+- Started to migrate the code to codepen.io
 
 **Thoughts**
 I feel like I will be finished with the portfolio in a couple of days!
