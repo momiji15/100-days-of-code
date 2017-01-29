@@ -303,4 +303,14 @@ I feel like I will be finished with the portfolio in a couple of days!
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/23c573adcced75cd7c5db55c3eba647fd6062c87)
 
+### Day 27: January 29, 2017
+**Today's Progress**
+- Finished migrating my code from Brackets to Codepen.io.
+
+**Thoughts**
+I could say that I'm done with my portfolio page, but I want to introduce media queries in order for it to be a responsive design. Hoping I can figure out and this be my final week working on the portfolio project!
+
+**Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+
 
