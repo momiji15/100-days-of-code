@@ -293,5 +293,14 @@ Today was indeed hard...not because of the coding persay, but because I am exhau
 
 **Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/0767dbb235b12c8497fcca12f6b4e13ce184bb20)
 
+### Day 26: January 28, 2017
+**Today's Progress**:
+-Added images to the "Public Health" sub-heading in the "Portfolio" section.
+-Started to migrate the code to codepen.io
+
+**Thoughts**
+I feel like I will be finished with the portfolio in a couple of days!
+
+**Link to work:** [Commits of the Day](https://github.com/momiji15/d-is-for-data/commit/23c573adcced75cd7c5db55c3eba647fd6062c87)
 
 
