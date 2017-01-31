@@ -312,5 +312,13 @@ I could say that I'm done with my portfolio page, but I want to introduce media 
 
 **Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 28: January 30, 2017
+**Today's Progress**
+- Added media queries to both my portfolio and the B.K.S. Iyengar tribute site.
+
+**Thoughts**
+I am almost finished with the portfolio project, but there is one more kink I have to deal with. The website looks fine on a desktop and a tablet, but is a little off on my portfolio! Hopefully I can figure it out tomorrow so I can wrap up this project!!! 
+
+**Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
 
