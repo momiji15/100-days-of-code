@@ -321,4 +321,14 @@ I am almost finished with the portfolio project, but there is one more kink I ha
 
 **Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 29: January 31, 2017
+**Today's Progress**
+- Corrected a grammar error in the "About me" section.
+- Fixed the issues with the contact icon links. When you click on it, it will go to an external page.
+- Added more padding in the sections.
+
+**Thoughts**
+I had a friend look at my page and he gave me some great feedback. I went ahead and made those changes based on his feedback. I thought I would be finished today, but maybe I will be finished by the end of this week...haha.
+
+**Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
