@@ -321,6 +321,16 @@ I am almost finished with the portfolio project, but there is one more kink I ha
 
 **Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 29: February 1, 2017
+**Today's Progress**
+- Still unsuccessful with having media queries work with my iphone.
+
+**Thoughts**
+Getting frustrated regarding media queries since I am almost done with my portfolio and this is the only thing I need get to work properly. My friend recommended Flexbox so I will take a look at that.
+
+**Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+
 ### Day 29: January 31, 2017
 **Today's Progress**
 - Corrected a grammar error in the "About me" section.
