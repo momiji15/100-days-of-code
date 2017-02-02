@@ -321,15 +321,6 @@ I am almost finished with the portfolio project, but there is one more kink I ha
 
 **Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
-### Day 29: February 1, 2017
-**Today's Progress**
-- Still unsuccessful with having media queries work with my iphone.
-
-**Thoughts**
-Getting frustrated regarding media queries since I am almost done with my portfolio and this is the only thing I need get to work properly. My friend recommended Flexbox so I will take a look at that.
-
-**Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
-
 
 ### Day 29: January 31, 2017
 **Today's Progress**
@@ -341,4 +332,25 @@ Getting frustrated regarding media queries since I am almost done with my portfo
 I had a friend look at my page and he gave me some great feedback. I went ahead and made those changes based on his feedback. I thought I would be finished today, but maybe I will be finished by the end of this week...haha.
 
 **Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+### Day 30: February 1, 2017
+**Today's Progress**
+- Still unsuccessful with having media queries work with my iphone.
+
+**Thoughts**
+Getting frustrated regarding media queries since I am almost done with my portfolio and this is the only thing I need get to work properly. My friend recommended Flexbox so I will take a look at that.
+
+**Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+
+### Day 31: February 2, 2017
+
+**Today's Progress**
+- Screwed up my portfolio thanks to trying to figure out the media queries issue.
+
+**Thoughts**
+The frustration continues...
+
+**Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
 
