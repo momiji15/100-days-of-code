@@ -353,4 +353,12 @@ The frustration continues...
 
 **Link to work:** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 32: February 3, 2017
+
+**Today's Progress**
+- Taking a break from the Portfolio page and worked on the "Profile Lookup" challenge on FreeCodeCamp
+
+**Thoughts**
+I'm counting the "Profile Looking" challenge towards my hour of code since it's a challenge that needs to be solved as opposed to "type and click 'Run Tests.'" For how tired I am, I am making some progresss on it.
+
 
