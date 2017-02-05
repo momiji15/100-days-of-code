@@ -361,4 +361,12 @@ The frustration continues...
 **Thoughts**
 I'm counting the "Profile Looking" challenge towards my hour of code since it's a challenge that needs to be solved as opposed to "type and click 'Run Tests.'" For how tired I am, I am making some progresss on it.
 
+### Day 33: February 4, 2017
+
+**Today's Progress**
+- Finished the "Profile Lookup" challenge on FreeCodeCamp
+
+**Thoughts**
+Ended up having to consult the discussion forums to figure it out. I was so close. Once I got rid of some extraneous information in the for loop, it worked!
+
 
