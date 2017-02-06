@@ -379,3 +379,14 @@ Ended up having to consult the discussion forums to figure it out. I was so clos
 Glad that I was able to fix the damage I did on my page. Tomorrow's another day!
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+### Day 35: February 6, 2017
+
+**Today's Progress**
+- Repaired the offset issue in the "Contact" section.
+- Added a collapsible navbar.
+
+**Thoughts**
+Now I understand what is meant by a collapsible navbar! Now the main issue is that the links are not working in the navbar. That will be what I work on tomorrow!
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
