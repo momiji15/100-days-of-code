@@ -369,4 +369,13 @@ I'm counting the "Profile Looking" challenge towards my hour of code since it's 
 **Thoughts**
 Ended up having to consult the discussion forums to figure it out. I was so close. Once I got rid of some extraneous information in the for loop, it worked!
 
+### Day 34: February 5, 2017
 
+**Today's Progress**
+- Repaired the damage I made on my Portfolio page a few days ago.
+- Changed all the columns to small.
+
+**Thoughts**
+Glad that I was able to fix the damage I did on my page. Tomorrow's another day!
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
