@@ -390,3 +390,15 @@ Glad that I was able to fix the damage I did on my page. Tomorrow's another day!
 Now I understand what is meant by a collapsible navbar! Now the main issue is that the links are not working in the navbar. That will be what I work on tomorrow!
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+### Day 36: February 7, 2017
+
+**Today's Progress**
+- Screwed up my page and salvaged it(again).
+- Changed the collapsible navbar but the links still don't work.
+
+**Thoughts**
+Totally didn't mean to spend THREE HOURS on this issue. Super frustrated.
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
