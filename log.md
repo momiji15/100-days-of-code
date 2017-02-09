@@ -402,3 +402,13 @@ Totally didn't mean to spend THREE HOURS on this issue. Super frustrated.
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 37: February 8, 2017
+
+**Today's Progress**
+Still working on the issue regarding the navbar links not working on the iPhone. 
+
+**Thoughts**
+I feel like I'm getting close, but I've said that before. 
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
