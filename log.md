@@ -412,3 +412,13 @@ I feel like I'm getting close, but I've said that before.
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 38: February 10, 2017
+
+**Today's Progress**
+Realized my navbar links is a CodePen issue and not an issue with my code.
+
+**Thoughts**
+Yesterday was a crazy day, so before I knew it, I was too tired to get some coding in. The good news about today is that I figured the issue with the mobile nav links out. The bad news is that I wasted over a week trying to figure it out.
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
