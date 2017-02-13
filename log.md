@@ -422,3 +422,24 @@ Yesterday was a crazy day, so before I knew it, I was too tired to get some codi
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 39: February 11, 2017
+
+**Today's Progress**
+Started to work on getting the divs at the same size.
+
+**Thoughts**
+Easier said than done!
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+### Day 40: February 12, 2017
+
+**Today's Progress**
+Still working on getting the divs the same size.
+
+**Thoughts**
+Will start back to coding one hour a day as of tomorrow.
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+
