@@ -443,3 +443,15 @@ Will start back to coding one hour a day as of tomorrow.
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
 
+### Day 42: February 13, 2017
+
+**Today's Progress**
+- I was able to get matchHeight.js to work!
+- I changed the pictures to be formatted by percent as opposed to px
+
+**Thoughts**
+By changing the pictures to be formatted by percent, I was able to get the page to fit better on a mobile interface. I need to figure out the whitespace issue though.
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+
