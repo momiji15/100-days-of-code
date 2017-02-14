@@ -454,4 +454,15 @@ By changing the pictures to be formatted by percent, I was able to get the page 
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 42: February 14, 2017
+
+**Today's Progress**
+- Fixed the mobile dropdown menu
+
+**Thoughts**
+Trying to fine tune the mobile interface.
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+
 
