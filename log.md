@@ -443,7 +443,7 @@ Will start back to coding one hour a day as of tomorrow.
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
 
-### Day 42: February 13, 2017
+### Day 41: February 13, 2017
 
 **Today's Progress**
 - I was able to get matchHeight.js to work!
