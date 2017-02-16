@@ -464,5 +464,15 @@ Trying to fine tune the mobile interface.
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 43: February 15, 2017
+
+**Today's Progress**
+- Not much. 
+
+**Thoughts**
+- The columns not being the same width is driving me crazy!
+
+
+
 
 
