@@ -482,4 +482,15 @@ Trying to fine tune the mobile interface.
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 45: February 17, 2017
+
+**Today's Progress**
+- Fixed the issues I mentioned yesterday and I am officially done with the Portfolio challenge!
+
+**Thoughts**
+- After much work and frustration, I'm pretty pleased with the result. The site can be used from mobile to desktop platforms. The buttons might not work properly on the mobile sites because of an issue with Codepen. 
+
+**Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
+
+
 
