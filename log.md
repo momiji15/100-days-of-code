@@ -472,7 +472,13 @@ Trying to fine tune the mobile interface.
 **Thoughts**
 - The columns not being the same width is driving me crazy!
 
+### Day 44 February 16, 2017
 
+**Today's Progress**
+- I was able to fix the white spaces between the rows.
+
+**Thoughts**
+- I'm glad that I was able to fix the white spaces...it took me a while! Now I need to fix the issues regarding the nav bar scrolling to the appropriate part of the webpage. I'm thinking that is a padding issue. I also need to fix a spacing issue with the "Geovisualization..." section of the page as well. 
 
 
 
