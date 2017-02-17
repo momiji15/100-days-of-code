@@ -472,7 +472,7 @@ Trying to fine tune the mobile interface.
 **Thoughts**
 - The columns not being the same width is driving me crazy!
 
-### Day 44 February 16, 2017
+### Day 44: February 16, 2017
 
 **Today's Progress**
 - I was able to fix the white spaces between the rows.
