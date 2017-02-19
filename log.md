@@ -492,5 +492,14 @@ Trying to fine tune the mobile interface.
 
 **Link to Work** [Portfolio Page](http://codepen.io/momiji15/full/apVXVZ/)
 
+### Day 46: February 18, 2017
+
+**Today's Progress**
+- Migrated the code from Codepen to my own html file.
+
+**Thoughts**
+- Now that I migrated my code, I need to set up a github page to host my site!
+
+** Link to Work** [Recent Commits](https://github.com/momiji15/d-is-for-data/commit/867383a76c004f953c7516b14b6f5664e88f9f9d)
 
 
