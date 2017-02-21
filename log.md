@@ -502,4 +502,10 @@ Trying to fine tune the mobile interface.
 
 ** Link to Work** [Recent Commits](https://github.com/momiji15/d-is-for-data/commit/867383a76c004f953c7516b14b6f5664e88f9f9d)
 
+### Day 47: February 20, 2017
 
+**Today's Progress**
+- Working on the FCC Javascript algorithm challenges. I completed two today
+
+**Thoughts**
+- This is definitely going to take some time to get through these challenges...
