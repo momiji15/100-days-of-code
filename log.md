@@ -509,3 +509,12 @@ Trying to fine tune the mobile interface.
 
 **Thoughts**
 - This is definitely going to take some time to get through these challenges...
+
+
+### Day 48: February 21, 2017
+
+**Today's Progress**
+- Finished the palidrome algorithm scripting challenge.
+
+**Thoughts**
+- Slowly but surely plowing along! 
