@@ -518,3 +518,21 @@ Trying to fine tune the mobile interface.
 
 **Thoughts**
 - Slowly but surely plowing along! 
+
+### Day 49: February 22, 2017
+
+**Today's Progress**
+- Started working on making a flowchart using diagrammeR.
+
+**Thoughts**
+- There are some things best left to PowerPoint.  I stayed up until 5am the next day working on getting it to work!
+
+### Day 50: February 23, 2017
+
+**Today's Progress**
+- Finished making a flowchart using diagrammeR.
+
+**Thoughts**
+- Lost some sleep but I'm happy with the result. Hard work and perserverance pays off!
+
+**Link to Work**[Instructional Curriculum Map](http://www.rpubs.com/momiji15)
