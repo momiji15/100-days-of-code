@@ -536,3 +536,11 @@ Trying to fine tune the mobile interface.
 - Lost some sleep but I'm happy with the result. Hard work and perserverance pays off!
 
 **Link to Work**[Instructional Curriculum Map](http://www.rpubs.com/momiji15)
+
+### Day 51: February 24, 2017
+
+**Today's Progress**
+- Still working on that longest word challenge...
+
+**Thoughts**
+- Feel like I'm getting nowhere with this challenge.
