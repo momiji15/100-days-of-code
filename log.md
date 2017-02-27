@@ -545,7 +545,7 @@ Trying to fine tune the mobile interface.
 **Thoughts**
 - Feel like I'm getting nowhere with this challenge.
 
-### Day 51: February 24, 2017
+### Day 51: February 26, 2017
 
 - Finished the longest word challenge thanks to hitting the forums...
 
