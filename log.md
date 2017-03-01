@@ -559,9 +559,16 @@ Trying to fine tune the mobile interface.
 **Thoughts**
 - Just trying to get it done.
 
-### Day 53: February 27, 2017
+### Day 53: February 28, 2017
 
-- Still working on the "Title Case a Sentence challenge
+- Still working on the "Title Case a Sentence" challenge
 
 **Thoughts** 
 - One step at a time.
+
+### Day 54: March 1, 2017
+
+- You got it! Still working on the same challenge!
+
+**Thoughts**
+- Scratching my head...
