@@ -551,3 +551,17 @@ Trying to fine tune the mobile interface.
 
 **Thoughts**
 - I was on the right track, but I totally overcomplicated the code.
+
+### Day 52: February 27, 2017
+
+- Working on the "Title Case a Sentence" challenge on Free Code Camp
+
+**Thoughts**
+- Just trying to get it done.
+
+### Day 53: February 27, 2017
+
+- Still working on the "Title Case a Sentence challenge
+
+**Thoughts** 
+- One step at a time.
