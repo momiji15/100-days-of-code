@@ -571,4 +571,11 @@ Trying to fine tune the mobile interface.
 - You got it! Still working on the same challenge!
 
 **Thoughts**
-- Scratching my head...
+- Scratching my head
+
+### Day 55 & Day 56: March 2 and 3 2017
+
+- Getting REAL frustrated with this "Title Case a Sentence" challenge.
+
+**Thoughts**
+- Fighting social conditioning regarding quantitative methods at the moment...
