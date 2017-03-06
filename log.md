@@ -579,3 +579,10 @@ Trying to fine tune the mobile interface.
 
 **Thoughts**
 - Fighting social conditioning regarding quantitative methods at the moment...
+
+### Day 57: March 5 2017
+
+- Finally completed the "Title Case a Sentence" challenge!!!!
+
+**Thoughts**
+- Just took six days to figure it out!!!!
