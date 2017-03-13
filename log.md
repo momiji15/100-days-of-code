@@ -584,5 +584,12 @@ Trying to fine tune the mobile interface.
 
 - Finally completed the "Title Case a Sentence" challenge!!!!
 
+### Day 58: March 12 2017
+
+- I did take a break since it was spring break. However, I started up again by attending a Women Who Code Code Jam. I was able to  complete the "Return Largest Numbers in Arrays" challenge. 
+
+**Thoughts**
+- So happy that I went to the Code Jam. I will definitely try to attend more. 
+
 **Thoughts**
 - Just took six days to figure it out!!!!
