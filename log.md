@@ -588,8 +588,15 @@ Trying to fine tune the mobile interface.
 
 - I did take a break since it was spring break. However, I started up again by attending a Women Who Code Code Jam. I was able to  complete the "Return Largest Numbers in Arrays" challenge. 
 
-**Thoughts**
-- So happy that I went to the Code Jam. I will definitely try to attend more. 
 
 **Thoughts**
-- Just took six days to figure it out!!!!
+- So happy that I went to the Code Jam. I will definitely try to attend more. 
+- Just took six days to figure out the challenge!!!!
+
+
+### Day 59: March 16 2017
+
+- Still trying to get back into the hang of things...did not mean to take such a gap! I only was able to code for 30 minutes today, but I did finish the "Confirm the Ending" challenge.
+
+**Thoughts**
+- I will make up for the 30 minutes I didn't code today when I host a Free Code Camp meetup this weekend :)
